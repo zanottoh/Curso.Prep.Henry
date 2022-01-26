@@ -1,0 +1,4 @@
+Prototype hace referencia al prototipo de un objeto, por ejemplo. un auto puede ser de varias marcas pero tiene un prototipo o modelo del cual parten todos los autos (por ejemplo: que tenga 4 ruedas, volante, puertas)
+En Javascript siempre que se pida un valor va ir a buscarlo  en la clase y de no encontrarlos va a ir al prototype.
+
+Constructor es basicamente es un metodo que se ejecuta en forma automatica pidiendo valores proforma de lo que se necesita de la clase. Por ejemplo, creamos la clase Persona y dentro del constructor podemos poner parametros básicos que nosotros necesitamos, por ejemplo: (nombre, apellido, edad).
