@@ -1,0 +1,8 @@
+for: Es la función que permite generar un bucle. Se hace para acciones repetitivas o de gran envergadura para no hacerlas en forma manual.
+
+se le brinda un valor inicial, una condicion para que se detenga el bucle y luego de cuanto en cuanto se va a sumar
+
+xejemplo: for (var i: 0 ; i > 100; i++)
+
+&& : Se utiliza para unir condicionales, reemplazaria a la letra "y" o en ingles "and".
+||: Se utiliza para unir condicionales, en este caso reemplazaria a la letra "o" en español o "or" en ingles.

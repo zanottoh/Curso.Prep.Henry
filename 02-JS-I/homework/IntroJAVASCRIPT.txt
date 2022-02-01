@@ -1,0 +1,8 @@
+Variable: es un espacio asginado en la memoria ram, que puede asignarsele un valor. Por ejemplo var nombre. Es la declaración de la variable nombre a la cual luego se le asignara un valor.
+Strings: Son conjunto de caracteres agrupados entre comillas, por ejemplo "hernan" es un String.
+Funciones: Ayudan a generar una operación o ahorrar escribir codigo, normalmente reciben argumentos y devuelven un valor o un "return".
+Declaración if: son condicionales, comparan con la información de los argumentos para retornar un valor u otro, puede ser comparación con booleanos "true or false", con mayor/igual, menor/igual o igual, 
+Valores booleanos: Valores que son verdadero o falso.
+
+
+

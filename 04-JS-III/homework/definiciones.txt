@@ -1,0 +1,1 @@
+Array, Matrices o Arreglos: Son conjunto de elementos o listas. Se declaran como una variable y se les asigna elementos entre [] separados por ,.
